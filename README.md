@@ -31,7 +31,7 @@ Make sure you have the following dependencies installed before running the code:
 - Python (version 3.10.12)
 - TensorFlow (version 2.13.0)
 - Keras (version 2.13.1)
-  - Keras Tuner (version 1.3.5)
+- Keras Tuner (version 1.3.5)
 - Other required libraries
 
 # Breast Cancer Classification Results
@@ -54,7 +54,7 @@ Make sure you have the following dependencies installed before running the code:
 - **Precision:** 0.8784
 - **Accuracy:** 0.8760
 - **Recall:** 0.8684
-  - **F1 Score:** 0.8734
+- **F1 Score:** 0.8734
 
 ---
 
